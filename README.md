@@ -8,9 +8,8 @@ Visualisation des performances des pilotes lors des qualifications de Monaco 202
 3. **Qualification Spread** : Répartition des écarts par pilote.
 
  Screenshots
-![Texte alternatif](file:///C:/Users/asmae/OneDrive/Desktop/F1-Monaco2025-DataAnalysis/f1_avg_speed.html) 
-![Texte alternatif](newplot (2)) 
-![Texte alternatif](newplot (3)) 
+[Voir l’analyse F1](f1_avg_speed.html)
+
 
 
 ## Installation
@@ -19,6 +18,7 @@ Visualisation des performances des pilotes lors des qualifications de Monaco 202
 1. Install dependencies: pip install -r requirements.txt
 2. Run the main script: python f1_analysis.py
 "# F1-Monaco2025-DataAnalysis" 
+
 
 
 
