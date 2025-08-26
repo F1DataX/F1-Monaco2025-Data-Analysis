@@ -7,10 +7,17 @@ Visualisation des performances des pilotes lors des qualifications de Monaco 202
 2. **Average Speed Comparison** : Comparaison de la vitesse moyenne.
 3. **Qualification Spread** : Répartition des écarts par pilote.
 
+ Screenshots
+![Texte alternatif](newplot (1)) 
+![Texte alternatif](newplot (2)) 
+![Texte alternatif](newplot (3)) 
+
+
 ## Installation
 ```bash
 ## How to run
 1. Install dependencies: pip install -r requirements.txt
 2. Run the main script: python f1_analysis.py
 "# F1-Monaco2025-DataAnalysis" 
+
 
