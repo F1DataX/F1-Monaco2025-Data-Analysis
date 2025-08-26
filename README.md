@@ -9,5 +9,8 @@ Visualisation des performances des pilotes lors des qualifications de Monaco 202
 
 ## Installation
 ```bash
-pip install -r requirements.txt
+## How to run
+1. Install dependencies: pip install -r requirements.txt
+2. Run the main script: python f1_analysis.py
 "# F1-Monaco2025-DataAnalysis" 
+
