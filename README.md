@@ -1,2 +1,13 @@
-# F1-Monaco2025-Data-Analysis
-📊 F1 Data Analysis – Monaco 2025  Ce projet analyse les performances des pilotes de Formule 1 pendant la séance de qualification du Grand Prix de Monaco 2025 à l’aide de Python et Plotly. L’objectif est de visualiser les écarts au tour, les vitesses moyennes et la répartition générale des performances.  
+# F1 Monaco 2025 Analysis
+
+Visualisation des performances des pilotes lors des qualifications de Monaco 2025.
+
+## Graphiques
+1. **Lap Delta** : Écart de temps par rapport au pole position.
+2. **Average Speed Comparison** : Comparaison de la vitesse moyenne.
+3. **Qualification Spread** : Répartition des écarts par pilote.
+
+## Installation
+```bash
+pip install -r requirements.txt
+"# F1-Monaco2025-DataAnalysis" 
